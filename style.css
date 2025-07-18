@@ -510,7 +510,7 @@ footer p {
     color: #777;
 }
 
-/* Responsive Media Queries */
+
 @media (max-width: 1200px) {
     .nav-bar {
         margin: 1.5rem 5rem;
@@ -688,6 +688,7 @@ footer p {
     
     .about-img {
         margin: 0 auto;
+        
     }
     
     .myprogressbar {
@@ -740,7 +741,7 @@ footer p {
         max-width: 100%;
     }
 }
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 425px) {
   .testimonials-card {
     flex-direction: column;
     align-items: center;
